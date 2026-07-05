@@ -1,0 +1,10 @@
+{
+  "name": "git-helper",
+  "version": "1.0.0",
+  "description": "Best practices for git operations: status checks before commits, clear commit messages, safe pushes.",
+  "category": "development",
+  "priority": 5,
+  "keywords": ["git", "commit", "push", "branch", "repository", "repo"],
+  "permissions": ["shell"],
+  "enabled": true
+}

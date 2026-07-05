@@ -1,0 +1,43 @@
+{
+  "model": "meta-llama/llama-3.3-70b-instruct",
+  "fallbackModels": [
+    "deepseek/deepseek-chat",
+    "meta-llama/llama-3.3-70b-instruct"
+  ],
+  "temperature": 0.7,
+  "maxTokens": 256,
+  "maxIterations": 12,
+  "port": 3000,
+  "openDashboardOnStart": true,
+  "telegram": {
+    "enabled": true,
+    "allowedChatIds": []
+  },
+  "browser": {
+    "engine": "chromium",
+    "headless": true,
+    "persistSession": true
+  },
+  "voice": {
+    "enabled": false,
+    "piperModel": "",
+    "wakeWord": "nova"
+  },
+  "hotkeys": {
+    "enabled": false,
+    "start": "ctrl+alt+a",
+    "stop": "ctrl+alt+s",
+    "restart": "ctrl+alt+r",
+    "terminal": "ctrl+alt+t",
+    "dashboard": "ctrl+alt+l"
+  },
+  "logging": {
+    "level": "info",
+    "maxFileSizeMb": 5,
+    "maxFiles": 3
+  },
+  "security": {
+    "confirmDangerous": true,
+    "blockedCommands": ["rm -rf /", "mkfs", ":(){ :|:& };:"]
+  }
+}

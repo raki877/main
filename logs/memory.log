@@ -1,0 +1,10 @@
+2026-07-05T10:54:12.993Z [INFO] remember(preference): user.name
+2026-07-05T10:55:22.689Z [INFO] remember(fact): test.key
+2026-07-05T10:55:22.689Z [INFO] remember(fact): test.search
+2026-07-05T10:55:22.690Z [INFO] Cleared history for session test-session
+2026-07-05T10:55:22.691Z [INFO] Cleared history for session test-session
+2026-07-05T11:03:34.116Z [INFO] remember(fact): test.key
+2026-07-05T11:03:34.117Z [INFO] remember(fact): test.search
+2026-07-05T11:03:34.118Z [INFO] Cleared history for session test-session
+2026-07-05T11:03:34.118Z [INFO] Cleared history for session test-session
+2026-07-05T11:35:59.612Z [INFO] Cleared history for session dashboard

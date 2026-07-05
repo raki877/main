@@ -1,0 +1,44 @@
+{
+  "name": "nova-agent",
+  "version": "1.0.0",
+  "description": "OpenClaw-inspired autonomous AI agent for Linux. Terminal, dashboard, REST API, WebSocket, Telegram, skills, plugins.",
+  "type": "module",
+  "private": true,
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "dev": "HOST=0.0.0.0 ALLOW_REMOTE=1 tsx src/index.ts --headless",
+    "dev:local": "tsx src/index.ts",
+    "build": "tsc -p tsconfig.json",
+    "start": "node dist/index.js",
+    "test": "vitest run",
+    "lint": "eslint src"
+  },
+  "dependencies": {
+    "better-sqlite3": "^12.4.1",
+    "chalk": "^5.6.2",
+    "chokidar": "^4.0.3",
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0",
+    "grammy": "^1.38.2",
+    "pino": "^10.1.0",
+    "playwright-core": "^1.56.1",
+    "ws": "^8.18.3",
+    "zod": "^4.1.12"
+  },
+  "devDependencies": {
+    "@types/better-sqlite3": "^7.6.13",
+    "@types/express": "^5.0.3",
+    "@types/node": "^24",
+    "@types/ws": "^8.18.1",
+    "tsx": "^4.20.6",
+    "typescript": "^5.7.3",
+    "vitest": "^3.2.4"
+  },
+  "pnpm": {
+    "onlyBuiltDependencies": [
+      "better-sqlite3"
+    ]
+  }
+}

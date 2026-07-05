@@ -1,0 +1,7 @@
+2026-07-05T10:55:22.687Z [tools] ToolFailed test_fail: boom
+2026-07-05T10:55:33.825Z [system] uncaughtException: listen EADDRINUSE: address already in use 0.0.0.0:3000
+2026-07-05T10:56:40.290Z [system] uncaughtException: listen EADDRINUSE: address already in use 0.0.0.0:3000
+2026-07-05T10:57:43.109Z [system] uncaughtException: listen EADDRINUSE: address already in use 0.0.0.0:3000
+2026-07-05T10:59:43.995Z [system] uncaughtException: listen EADDRINUSE: address already in use 0.0.0.0:3000
+2026-07-05T11:03:34.115Z [tools] ToolFailed test_fail: boom
+2026-07-05T11:04:55.280Z [system] uncaughtException: listen EADDRINUSE: address already in use 0.0.0.0:3000

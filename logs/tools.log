@@ -1,0 +1,29 @@
+2026-07-05T10:53:05.524Z [INFO] Registered 34 builtin tools
+2026-07-05T10:55:22.684Z [INFO] ToolStarted test_echo {"msg":"hi"}
+2026-07-05T10:55:22.686Z [INFO] ToolCompleted test_echo in 2ms
+2026-07-05T10:55:22.687Z [INFO] ToolStarted test_fail {}
+2026-07-05T10:55:22.687Z [ERROR] ToolFailed test_fail: boom
+2026-07-05T10:55:33.811Z [INFO] Registered 34 builtin tools
+2026-07-05T10:56:40.270Z [INFO] Registered 34 builtin tools
+2026-07-05T10:57:43.092Z [INFO] Registered 34 builtin tools
+2026-07-05T10:59:43.980Z [INFO] Registered 34 builtin tools
+2026-07-05T11:03:34.112Z [INFO] ToolStarted test_echo {"msg":"hi"}
+2026-07-05T11:03:34.114Z [INFO] ToolCompleted test_echo in 2ms
+2026-07-05T11:03:34.115Z [INFO] ToolStarted test_fail {}
+2026-07-05T11:03:34.115Z [ERROR] ToolFailed test_fail: boom
+2026-07-05T11:03:44.980Z [INFO] Browser closed (idle)
+2026-07-05T11:03:53.534Z [INFO] Registered 34 builtin tools
+2026-07-05T11:04:29.773Z [INFO] ToolStarted roll_dice {"sides":20,"count":3}
+2026-07-05T11:04:29.775Z [INFO] ToolCompleted roll_dice in 1ms
+2026-07-05T11:04:55.267Z [INFO] Registered 34 builtin tools
+2026-07-05T11:18:37.873Z [INFO] Registered 34 builtin tools
+2026-07-05T11:18:58.448Z [INFO] ToolStarted notify {"title":"Nova","body":"Hello! How can I assist you today, Test User?"}
+2026-07-05T11:18:58.590Z [INFO] ToolCompleted notify in 142ms
+2026-07-05T11:19:16.629Z [INFO] ToolStarted notify {"title":"Nova","body":"Hello! How can I assist you today, Test User?"}
+2026-07-05T11:19:16.717Z [INFO] ToolCompleted notify in 88ms
+2026-07-05T11:25:37.476Z [INFO] Registered 34 builtin tools
+2026-07-05T11:35:47.197Z [INFO] Registered 34 builtin tools
+2026-07-05T11:36:04.873Z [INFO] ToolStarted notify {"title":"Hello","body":"Hello Test User"}
+2026-07-05T11:36:04.984Z [INFO] ToolCompleted notify in 111ms
+2026-07-05T11:36:28.967Z [INFO] ToolStarted notify {"title":"Hello","body":"Hello Nova"}
+2026-07-05T11:36:29.072Z [INFO] ToolCompleted notify in 104ms

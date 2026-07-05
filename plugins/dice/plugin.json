@@ -1,0 +1,8 @@
+{
+  "name": "dice",
+  "version": "1.0.0",
+  "description": "Example plugin that adds a roll_dice tool. Copy this folder to create your own plugins.",
+  "main": "index.mjs",
+  "permissions": [],
+  "enabled": true
+}

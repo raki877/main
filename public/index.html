@@ -1,0 +1,88 @@
+<!doctype html>
+<html lang="en" class="bg">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="theme-color" content="#0b0f0e" />
+  <title>Nova Agent — Dashboard</title>
+  <link rel="stylesheet" href="/style.css" />
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand">
+      <span class="dot" id="conn-dot" aria-hidden="true"></span>
+      <h1>nova<span class="accent">_agent</span></h1>
+    </div>
+    <div class="topbar-right">
+      <select id="model-select" aria-label="Active model"></select>
+      <button id="stop-btn" class="btn danger" type="button">Stop</button>
+    </div>
+  </header>
+
+  <main class="layout">
+    <!-- Chat column -->
+    <section class="panel chat-panel" aria-label="Chat with agent">
+      <div class="panel-head">
+        <h2>Chat</h2>
+        <button id="clear-btn" class="btn ghost" type="button">Clear</button>
+      </div>
+      <div id="chat-log" class="chat-log" role="log" aria-live="polite"></div>
+      <div id="plan-box" class="plan-box" hidden></div>
+      <form id="chat-form" class="chat-form">
+        <textarea id="chat-input" rows="2" placeholder="Give the agent a task…" aria-label="Message"></textarea>
+        <button class="btn primary" type="submit">Send</button>
+      </form>
+    </section>
+
+    <!-- Right column -->
+    <div class="side">
+      <section class="panel" aria-label="System status">
+        <div class="panel-head"><h2>Status</h2></div>
+        <dl class="status-grid" id="status-grid">
+          <div><dt>Phase</dt><dd id="st-phase">—</dd></div>
+          <div><dt>Model</dt><dd id="st-model">—</dd></div>
+          <div><dt>Uptime</dt><dd id="st-uptime">—</dd></div>
+          <div><dt>RAM</dt><dd id="st-ram">—</dd></div>
+          <div><dt>CPU</dt><dd id="st-cpu">—</dd></div>
+          <div><dt>Tools</dt><dd id="st-tools">—</dd></div>
+          <div><dt>Skills</dt><dd id="st-skills">—</dd></div>
+          <div><dt>Telegram</dt><dd id="st-telegram">—</dd></div>
+        </dl>
+      </section>
+
+      <section class="panel" aria-label="Tabs">
+        <div class="tabs" role="tablist">
+          <button class="tab active" data-tab="activity" role="tab" aria-selected="true">Activity</button>
+          <button class="tab" data-tab="memory" role="tab" aria-selected="false">Memory</button>
+          <button class="tab" data-tab="tools" role="tab" aria-selected="false">Tools</button>
+          <button class="tab" data-tab="jobs" role="tab" aria-selected="false">Jobs</button>
+        </div>
+        <div id="tab-activity" class="tab-body"><ul id="activity-list" class="feed"></ul></div>
+        <div id="tab-memory" class="tab-body" hidden>
+          <input id="memory-search" class="input" placeholder="Search memory…" aria-label="Search memory" />
+          <ul id="memory-list" class="feed"></ul>
+        </div>
+        <div id="tab-tools" class="tab-body" hidden><ul id="tools-list" class="feed"></ul></div>
+        <div id="tab-jobs" class="tab-body" hidden>
+          <form id="job-form" class="job-form">
+            <input id="job-name" class="input" placeholder="Job name" aria-label="Job name" required />
+            <input id="job-prompt" class="input" placeholder="Prompt to run" aria-label="Job prompt" required />
+            <div class="job-row">
+              <select id="job-kind" class="input" aria-label="Job kind">
+                <option value="once">Once (min from now)</option>
+                <option value="interval">Every N minutes</option>
+                <option value="daily">Daily at HH:MM</option>
+              </select>
+              <input id="job-when" class="input" placeholder="30 or 09:00" aria-label="When" />
+              <button class="btn primary" type="submit">Add</button>
+            </div>
+          </form>
+          <ul id="jobs-list" class="feed"></ul>
+        </div>
+      </section>
+    </div>
+  </main>
+
+  <script src="/app.js"></script>
+</body>
+</html>

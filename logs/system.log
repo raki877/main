@@ -1,0 +1,138 @@
+2026-07-05T10:53:05.520Z [INFO] Nova Agent starting...
+2026-07-05T10:53:05.525Z [INFO] Skill loaded: git-helper@1.0.0
+2026-07-05T10:53:05.525Z [INFO] Loaded 1 skills
+2026-07-05T10:53:05.527Z [INFO] [plugin:dice] dice plugin loaded
+2026-07-05T10:53:05.527Z [INFO] Plugin loaded: dice@1.0.0 (1 tools)
+2026-07-05T10:53:05.527Z [INFO] Loaded 1 plugins
+2026-07-05T10:53:05.528Z [INFO] Scheduler started (30s tick)
+2026-07-05T10:53:05.532Z [INFO] Telegram disabled (no token or disabled in config)
+2026-07-05T10:53:05.532Z [INFO] Running headless. Dashboard: http://localhost:3000
+2026-07-05T10:53:05.537Z [INFO] Dashboard + API listening on http://localhost:3000
+2026-07-05T10:55:22.691Z [INFO] Scheduler started (30s tick)
+2026-07-05T10:55:22.691Z [INFO] Job added: test-job (interval) next run 2026-07-05T11:55:22.691Z
+2026-07-05T10:55:22.692Z [INFO] Scheduler started (30s tick)
+2026-07-05T10:55:22.692Z [INFO] Job added: test-daily (daily) next run 2026-07-06T09:00:00.000Z
+2026-07-05T10:55:33.808Z [INFO] Nova Agent starting...
+2026-07-05T10:55:33.811Z [INFO] Skill loaded: git-helper@1.0.0
+2026-07-05T10:55:33.811Z [INFO] Loaded 1 skills
+2026-07-05T10:55:33.813Z [INFO] [plugin:dice] dice plugin loaded
+2026-07-05T10:55:33.813Z [INFO] Plugin loaded: dice@1.0.0 (1 tools)
+2026-07-05T10:55:33.813Z [INFO] Loaded 1 plugins
+2026-07-05T10:55:33.814Z [INFO] Scheduler started (30s tick)
+2026-07-05T10:55:33.819Z [INFO] Telegram disabled (no token or disabled in config)
+2026-07-05T10:55:33.819Z [INFO] Running headless. Dashboard: http://localhost:3000
+2026-07-05T10:55:33.825Z [ERROR] uncaughtException: listen EADDRINUSE: address already in use 0.0.0.0:3000
+2026-07-05T10:56:40.267Z [INFO] Nova Agent starting...
+2026-07-05T10:56:40.270Z [INFO] Skill loaded: git-helper@1.0.0
+2026-07-05T10:56:40.270Z [INFO] Loaded 1 skills
+2026-07-05T10:56:40.273Z [INFO] [plugin:dice] dice plugin loaded
+2026-07-05T10:56:40.273Z [INFO] Plugin loaded: dice@1.0.0 (1 tools)
+2026-07-05T10:56:40.273Z [INFO] Loaded 1 plugins
+2026-07-05T10:56:40.273Z [INFO] Scheduler started (30s tick)
+2026-07-05T10:56:40.285Z [INFO] Telegram disabled (no token or disabled in config)
+2026-07-05T10:56:40.285Z [INFO] Running headless. Dashboard: http://localhost:3000
+2026-07-05T10:56:40.290Z [ERROR] uncaughtException: listen EADDRINUSE: address already in use 0.0.0.0:3000
+2026-07-05T10:57:43.088Z [INFO] Nova Agent starting...
+2026-07-05T10:57:43.093Z [INFO] Skill loaded: git-helper@1.0.0
+2026-07-05T10:57:43.093Z [INFO] Loaded 1 skills
+2026-07-05T10:57:43.098Z [INFO] [plugin:dice] dice plugin loaded
+2026-07-05T10:57:43.099Z [INFO] Plugin loaded: dice@1.0.0 (1 tools)
+2026-07-05T10:57:43.099Z [INFO] Loaded 1 plugins
+2026-07-05T10:57:43.099Z [INFO] Scheduler started (30s tick)
+2026-07-05T10:57:43.104Z [INFO] Telegram disabled (no token or disabled in config)
+2026-07-05T10:57:43.104Z [INFO] Running headless. Dashboard: http://localhost:3000
+2026-07-05T10:57:43.109Z [ERROR] uncaughtException: listen EADDRINUSE: address already in use 0.0.0.0:3000
+2026-07-05T10:59:43.973Z [INFO] Nova Agent starting...
+2026-07-05T10:59:43.980Z [INFO] Skill loaded: git-helper@1.0.0
+2026-07-05T10:59:43.980Z [INFO] Loaded 1 skills
+2026-07-05T10:59:43.983Z [INFO] [plugin:dice] dice plugin loaded
+2026-07-05T10:59:43.983Z [INFO] Plugin loaded: dice@1.0.0 (1 tools)
+2026-07-05T10:59:43.984Z [INFO] Loaded 1 plugins
+2026-07-05T10:59:43.984Z [INFO] Scheduler started (30s tick)
+2026-07-05T10:59:43.990Z [INFO] Telegram disabled (no token or disabled in config)
+2026-07-05T10:59:43.990Z [INFO] Running headless. Dashboard: http://localhost:3000
+2026-07-05T10:59:43.995Z [ERROR] uncaughtException: listen EADDRINUSE: address already in use 0.0.0.0:3000
+2026-07-05T11:03:34.119Z [INFO] Scheduler started (30s tick)
+2026-07-05T11:03:34.119Z [INFO] Job added: test-job (interval) next run 2026-07-05T12:03:34.119Z
+2026-07-05T11:03:34.120Z [INFO] Scheduler started (30s tick)
+2026-07-05T11:03:34.120Z [INFO] Job added: test-daily (daily) next run 2026-07-06T09:00:00.000Z
+2026-07-05T11:03:44.978Z [INFO] Received SIGTERM, shutting down...
+2026-07-05T11:03:53.531Z [INFO] Nova Agent starting...
+2026-07-05T11:03:53.534Z [INFO] Skill loaded: git-helper@1.0.0
+2026-07-05T11:03:53.534Z [INFO] Loaded 1 skills
+2026-07-05T11:03:53.536Z [INFO] [plugin:dice] dice plugin loaded
+2026-07-05T11:03:53.536Z [INFO] Plugin loaded: dice@1.0.0 (1 tools)
+2026-07-05T11:03:53.537Z [INFO] Loaded 1 plugins
+2026-07-05T11:03:53.537Z [INFO] Scheduler started (30s tick)
+2026-07-05T11:03:53.542Z [INFO] Telegram disabled (no token or disabled in config)
+2026-07-05T11:03:53.542Z [INFO] Running headless. Dashboard: http://localhost:3000
+2026-07-05T11:03:53.546Z [INFO] Dashboard + API listening on http://localhost:3000
+2026-07-05T11:04:55.264Z [INFO] Nova Agent starting...
+2026-07-05T11:04:55.267Z [INFO] Skill loaded: git-helper@1.0.0
+2026-07-05T11:04:55.267Z [INFO] Loaded 1 skills
+2026-07-05T11:04:55.270Z [INFO] [plugin:dice] dice plugin loaded
+2026-07-05T11:04:55.270Z [INFO] Plugin loaded: dice@1.0.0 (1 tools)
+2026-07-05T11:04:55.270Z [INFO] Loaded 1 plugins
+2026-07-05T11:04:55.270Z [INFO] Scheduler started (30s tick)
+2026-07-05T11:04:55.275Z [INFO] Telegram disabled (no token or disabled in config)
+2026-07-05T11:04:55.275Z [INFO] Running headless. Dashboard: http://localhost:3000
+2026-07-05T11:04:55.280Z [ERROR] uncaughtException: listen EADDRINUSE: address already in use 0.0.0.0:3000
+2026-07-05T11:18:37.869Z [INFO] Nova Agent starting...
+2026-07-05T11:18:37.875Z [INFO] Skill loaded: git-helper@1.0.0
+2026-07-05T11:18:37.876Z [INFO] Loaded 1 skills
+2026-07-05T11:18:37.899Z [INFO] [plugin:dice] dice plugin loaded
+2026-07-05T11:18:37.900Z [INFO] Plugin loaded: dice@1.0.0 (1 tools)
+2026-07-05T11:18:37.900Z [INFO] Loaded 1 plugins
+2026-07-05T11:18:37.903Z [INFO] Scheduler started (30s tick)
+2026-07-05T11:18:38.075Z [INFO] Dashboard + API listening on http://localhost:3000
+2026-07-05T11:18:39.656Z [INFO] Telegram bot connected as @rockey_chat_bot
+2026-07-05T11:18:55.236Z [WARN] Model openai/gpt-4o-mini failed: OpenRouter 402: {"error":{"message":"This request requires more credits, or fewer max_tokens. You requested up to 2048 tokens, but can only afford 1511. To increase, visit https://openrouter.ai/settings/credits and upgrade to a paid account","code":402,"metadata":{"provider_name":null}},"user_id":"user_3FvtcNKWrseO. Trying fallback.
+2026-07-05T11:18:55.585Z [WARN] Model deepseek/deepseek-chat failed: OpenRouter 402: {"error":{"message":"This request requires more credits, or fewer max_tokens. You requested up to 2048 tokens, but can only afford 697. To increase, visit https://openrouter.ai/settings/credits and upgrade to a paid account","code":402,"metadata":{"provider_name":null,"previous_errors":[{"code":402,. Trying fallback.
+2026-07-05T11:18:58.727Z [WARN] Model openai/gpt-4o-mini failed: OpenRouter 402: {"error":{"message":"This request requires more credits, or fewer max_tokens. You requested up to 2048 tokens, but can only afford 1511. To increase, visit https://openrouter.ai/settings/credits and upgrade to a paid account","code":402,"metadata":{"provider_name":null}},"user_id":"user_3FvtcNKWrseO. Trying fallback.
+2026-07-05T11:18:58.864Z [WARN] Model deepseek/deepseek-chat failed: OpenRouter 402: {"error":{"message":"This request requires more credits, or fewer max_tokens. You requested up to 2048 tokens, but can only afford 697. To increase, visit https://openrouter.ai/settings/credits and upgrade to a paid account","code":402,"metadata":{"provider_name":null,"previous_errors":[{"code":402,. Trying fallback.
+2026-07-05T11:19:01.967Z [INFO] [plugin:dice] a task finished
+2026-07-05T11:19:14.105Z [WARN] Model openai/gpt-4o-mini failed: OpenRouter 402: {"error":{"message":"This request requires more credits, or fewer max_tokens. You requested up to 2048 tokens, but can only afford 1511. To increase, visit https://openrouter.ai/settings/credits and upgrade to a paid account","code":402,"metadata":{"provider_name":null}},"user_id":"user_3FvtcNKWrseO. Trying fallback.
+2026-07-05T11:19:14.379Z [WARN] Model deepseek/deepseek-chat failed: OpenRouter 402: {"error":{"message":"This request requires more credits, or fewer max_tokens. You requested up to 2048 tokens, but can only afford 697. To increase, visit https://openrouter.ai/settings/credits and upgrade to a paid account","code":402,"metadata":{"provider_name":null,"previous_errors":[{"code":402,. Trying fallback.
+2026-07-05T11:19:16.818Z [WARN] Model openai/gpt-4o-mini failed: OpenRouter 402: {"error":{"message":"This request requires more credits, or fewer max_tokens. You requested up to 2048 tokens, but can only afford 1511. To increase, visit https://openrouter.ai/settings/credits and upgrade to a paid account","code":402,"metadata":{"provider_name":null}},"user_id":"user_3FvtcNKWrseO. Trying fallback.
+2026-07-05T11:19:16.947Z [WARN] Model deepseek/deepseek-chat failed: OpenRouter 402: {"error":{"message":"This request requires more credits, or fewer max_tokens. You requested up to 2048 tokens, but can only afford 697. To increase, visit https://openrouter.ai/settings/credits and upgrade to a paid account","code":402,"metadata":{"provider_name":null,"previous_errors":[{"code":402,. Trying fallback.
+2026-07-05T11:19:18.977Z [INFO] [plugin:dice] a task finished
+2026-07-05T11:20:15.212Z [WARN] Model openai/gpt-4o-mini failed: OpenRouter 402: {"error":{"message":"This request requires more credits, or fewer max_tokens. You requested up to 2048 tokens, but can only afford 716. To increase, visit https://openrouter.ai/settings/credits and upgrade to a paid account","code":402,"metadata":{"provider_name":null}},"user_id":"user_3FvtcNKWrseO0. Trying fallback.
+2026-07-05T11:20:15.488Z [WARN] Model deepseek/deepseek-chat failed: OpenRouter 402: {"error":{"message":"This request requires more credits, or fewer max_tokens. You requested up to 2048 tokens, but can only afford 330. To increase, visit https://openrouter.ai/settings/credits and upgrade to a paid account","code":402,"metadata":{"provider_name":null,"previous_errors":[{"code":402,. Trying fallback.
+2026-07-05T11:20:15.630Z [WARN] Model meta-llama/llama-3.3-70b-instruct failed: OpenRouter 402: {"error":{"message":"This request requires more credits, or fewer max_tokens. You requested up to 2048 tokens, but can only afford 413. To increase, visit https://openrouter.ai/settings/credits and upgrade to a paid account","code":402,"metadata":{"provider_name":null,"previous_errors":[{"code":402,. Trying fallback.
+2026-07-05T11:20:31.325Z [WARN] Model openai/gpt-4o-mini failed: OpenRouter 402: {"error":{"message":"This request requires more credits, or fewer max_tokens. You requested up to 2048 tokens, but can only afford 716. To increase, visit https://openrouter.ai/settings/credits and upgrade to a paid account","code":402,"metadata":{"provider_name":null}},"user_id":"user_3FvtcNKWrseO0. Trying fallback.
+2026-07-05T11:20:31.634Z [WARN] Model deepseek/deepseek-chat failed: OpenRouter 402: {"error":{"message":"This request requires more credits, or fewer max_tokens. You requested up to 2048 tokens, but can only afford 330. To increase, visit https://openrouter.ai/settings/credits and upgrade to a paid account","code":402,"metadata":{"provider_name":null,"previous_errors":[{"code":402,. Trying fallback.
+2026-07-05T11:20:31.792Z [WARN] Model meta-llama/llama-3.3-70b-instruct failed: OpenRouter 402: {"error":{"message":"This request requires more credits, or fewer max_tokens. You requested up to 2048 tokens, but can only afford 413. To increase, visit https://openrouter.ai/settings/credits and upgrade to a paid account","code":402,"metadata":{"provider_name":null,"previous_errors":[{"code":402,. Trying fallback.
+2026-07-05T11:25:37.474Z [INFO] Nova Agent starting...
+2026-07-05T11:25:37.478Z [INFO] Skill loaded: git-helper@1.0.0
+2026-07-05T11:25:37.479Z [INFO] Loaded 1 skills
+2026-07-05T11:25:37.495Z [INFO] [plugin:dice] dice plugin loaded
+2026-07-05T11:25:37.495Z [INFO] Plugin loaded: dice@1.0.0 (1 tools)
+2026-07-05T11:25:37.496Z [INFO] Loaded 1 plugins
+2026-07-05T11:25:37.497Z [INFO] Scheduler started (30s tick)
+2026-07-05T11:25:37.616Z [INFO] Dashboard + API listening on http://localhost:3000
+2026-07-05T11:25:38.793Z [INFO] Telegram bot connected as @rockey_chat_bot
+2026-07-05T11:25:44.139Z [WARN] Model openai/gpt-4o-mini failed: OpenRouter 402: {"error":{"message":"This request requires more credits, or fewer max_tokens. You requested up to 2048 tokens, but can only afford 716. To increase, visit https://openrouter.ai/settings/credits and upgrade to a paid account","code":402,"metadata":{"provider_name":null}},"user_id":"user_3FvtcNKWrseO0. Trying fallback.
+2026-07-05T11:25:44.667Z [WARN] Model deepseek/deepseek-chat failed: OpenRouter 402: {"error":{"message":"This request requires more credits, or fewer max_tokens. You requested up to 2048 tokens, but can only afford 330. To increase, visit https://openrouter.ai/settings/credits and upgrade to a paid account","code":402,"metadata":{"provider_name":null,"previous_errors":[{"code":402,. Trying fallback.
+2026-07-05T11:25:44.813Z [WARN] Model meta-llama/llama-3.3-70b-instruct failed: OpenRouter 402: {"error":{"message":"This request requires more credits, or fewer max_tokens. You requested up to 2048 tokens, but can only afford 413. To increase, visit https://openrouter.ai/settings/credits and upgrade to a paid account","code":402,"metadata":{"provider_name":null,"previous_errors":[{"code":402,. Trying fallback.
+2026-07-05T11:25:57.232Z [WARN] Model openai/gpt-4o-mini failed: OpenRouter 402: {"error":{"message":"This request requires more credits, or fewer max_tokens. You requested up to 2048 tokens, but can only afford 716. To increase, visit https://openrouter.ai/settings/credits and upgrade to a paid account","code":402,"metadata":{"provider_name":null}},"user_id":"user_3FvtcNKWrseO0. Trying fallback.
+2026-07-05T11:25:57.471Z [WARN] Model deepseek/deepseek-chat failed: OpenRouter 402: {"error":{"message":"This request requires more credits, or fewer max_tokens. You requested up to 2048 tokens, but can only afford 330. To increase, visit https://openrouter.ai/settings/credits and upgrade to a paid account","code":402,"metadata":{"provider_name":null,"previous_errors":[{"code":402,. Trying fallback.
+2026-07-05T11:25:57.592Z [WARN] Model meta-llama/llama-3.3-70b-instruct failed: OpenRouter 402: {"error":{"message":"This request requires more credits, or fewer max_tokens. You requested up to 2048 tokens, but can only afford 413. To increase, visit https://openrouter.ai/settings/credits and upgrade to a paid account","code":402,"metadata":{"provider_name":null,"previous_errors":[{"code":402,. Trying fallback.
+2026-07-05T11:30:04.021Z [INFO] Model switched to openai/gpt-4o
+2026-07-05T11:31:10.390Z [INFO] Model switched to meta-llama/llama-3.3-70b-instruct
+2026-07-05T11:31:12.800Z [WARN] Model meta-llama/llama-3.3-70b-instruct failed: OpenRouter 402: {"error":{"message":"This request requires more credits, or fewer max_tokens. You requested up to 2048 tokens, but can only afford 413. To increase, visit https://openrouter.ai/settings/credits and upgrade to a paid account","code":402,"metadata":{"provider_name":null,"previous_errors":[{"code":402,. Trying fallback.
+2026-07-05T11:31:13.151Z [WARN] Model deepseek/deepseek-chat failed: OpenRouter 402: {"error":{"message":"This request requires more credits, or fewer max_tokens. You requested up to 2048 tokens, but can only afford 330. To increase, visit https://openrouter.ai/settings/credits and upgrade to a paid account","code":402,"metadata":{"provider_name":null,"previous_errors":[{"code":402,. Trying fallback.
+2026-07-05T11:31:13.314Z [WARN] Model meta-llama/llama-3.3-70b-instruct failed: OpenRouter 402: {"error":{"message":"This request requires more credits, or fewer max_tokens. You requested up to 2048 tokens, but can only afford 413. To increase, visit https://openrouter.ai/settings/credits and upgrade to a paid account","code":402,"metadata":{"provider_name":null,"previous_errors":[{"code":402,. Trying fallback.
+2026-07-05T11:35:47.194Z [INFO] Nova Agent starting...
+2026-07-05T11:35:47.199Z [INFO] Skill loaded: git-helper@1.0.0
+2026-07-05T11:35:47.199Z [INFO] Loaded 1 skills
+2026-07-05T11:35:47.218Z [INFO] [plugin:dice] dice plugin loaded
+2026-07-05T11:35:47.219Z [INFO] Plugin loaded: dice@1.0.0 (1 tools)
+2026-07-05T11:35:47.220Z [INFO] Loaded 1 plugins
+2026-07-05T11:35:47.221Z [INFO] Scheduler started (30s tick)
+2026-07-05T11:35:47.353Z [INFO] Dashboard + API listening on http://localhost:3000
+2026-07-05T11:35:48.614Z [INFO] Telegram bot connected as @rockey_chat_bot
+2026-07-05T11:36:06.088Z [INFO] [plugin:dice] a task finished
+2026-07-05T11:36:30.345Z [INFO] [plugin:dice] a task finished
+2026-07-05T11:36:45.732Z [WARN] Model meta-llama/llama-3.3-70b-instruct failed: OpenRouter 402: {"error":{"message":"This request requires more credits, or fewer max_tokens. You requested up to 256 tokens, but can only afford 185. To increase, visit https://openrouter.ai/settings/credits and upgrade to a paid account","code":402,"metadata":{"provider_name":null,"previous_errors":[{"code":402,". Trying fallback.
+2026-07-05T11:36:46.098Z [WARN] Model deepseek/deepseek-chat failed: OpenRouter 402: {"error":{"message":"Insufficient credits. This account never purchased credits. Make sure your key is on the correct account or org, and if so, purchase more at https://openrouter.ai/settings/credits","code":402}}. Trying fallback.
+2026-07-05T11:36:46.365Z [WARN] Model meta-llama/llama-3.3-70b-instruct failed: OpenRouter 402: {"error":{"message":"This request requires more credits, or fewer max_tokens. You requested up to 256 tokens, but can only afford 185. To increase, visit https://openrouter.ai/settings/credits and upgrade to a paid account","code":402,"metadata":{"provider_name":null,"previous_errors":[{"code":402,". Trying fallback.
