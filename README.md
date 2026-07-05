@@ -134,3 +134,6 @@ data/         SQLite database
 Idle: ~150 MB RAM, <1% CPU. The browser is only launched when a browser tool is
 first used and can be closed by the agent afterwards.
 # main
+## Documentation
+
+📖 See the full documentation here: [DOCUMENTATION.md](DOCUMENTATION.md)
